@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @dermalcolm
+- 👀 I’m interested in: Software development
+- 🌱 I’m currently learning: React
+- 📫 How to reach me: dermalcolm@gmail.com
